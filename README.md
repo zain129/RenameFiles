@@ -2,8 +2,8 @@
 A simple project to rename files in a specific directory.
 
 ## How to run application?
-Use the following command:<br>
-_java -jar RenameFiles-1.1.jar_
+Use the following command:
+java -jar RenameFiles-1.1.jar 
 
 Command line Arguments:
 1. Directory
